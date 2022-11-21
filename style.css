@@ -1,0 +1,68 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+   background-color: rgb(245, 236, 236);
+    border-top-color: rgb(184, 158, 158);
+    margin-bottom: auto;
+    line-height: 1.4;
+    position: relative;
+    margin-left: 250px;
+    margin-right: 200px;
+    border: solid;
+}
+.dados{
+    float: right;
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Netcha{
+    float: left;
+    margin-top: 10px;
+    display: inline-flex;
+    border-radius: 2px;
+}
+aside{
+    margin-top: 400px;
+}
+h3{
+    margin-left: 5px;
+}
+a:active{
+    background-color: rgb(216, 106, 179);
+    font-size: medium;
+    font-style: italic;
+    
+}
+a:hover{
+    text-decoration: none;
+    background-color: aqua;
+}
+.lugares{
+    
+   
+    margin-top: 100px;
+}
+.lugares2{
+    float: right;
+   
+    
+    margin-top: -300px;
+}
+.place{
+    margin-right: 100px;
+}
+.tudo{
+    background-color: rgb(204, 168, 168);
+}
